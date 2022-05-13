@@ -1,0 +1,38 @@
+.container {
+  background-color: #fff;
+  display: inline-block;
+  margin-left: 20px;
+  margin-top: 50px;
+  padding: 20px;
+  border-radius: 10px;
+}
+.count {
+  text-align: center;
+}
+.StartBtn {
+  background-color: blue;
+  color: #fff;
+  border: none;
+  margin-right: 8px;
+  margin-left: 8px;
+  padding: 10px 15px;
+  font-size: 19px;
+}
+.StartBtn:disabled {
+  background-color: red;
+  color: #fff;
+  border: none;
+  margin-right: 8px;
+  margin-left: 8px;
+  padding: 10px 15px;
+  font-size: 19px;
+}
+.mainBtn {
+  background-color: blue;
+  color: #fff;
+  border: none;
+  margin-right: 8px;
+  margin-left: 8px;
+  padding: 10px 15px;
+  font-size: 19px;
+}
